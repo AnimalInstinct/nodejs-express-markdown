@@ -1,4 +1,4 @@
-# NodeJS Express markdown web app boilerplate 
+# NodeJS Express markdown monolith web app boilerplate 
 
 ## Features
 
